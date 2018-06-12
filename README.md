@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # Human-Action-Recognition
-=======
-# Human-Action-Recognition
->>>>>>> e8d0914a5ff42d129683165975fddb963ef3d54d
+Classification of various human actions like kicking, riding horse etc. The same model can be used to train on other action videos.
